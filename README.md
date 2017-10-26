@@ -1,6 +1,8 @@
 
 # SAML Extensions
 
+[![Build Status](https://travis-ci.org/alphagov/verify-saml-extensions.svg?branch=master)](https://travis-ci.org/alphagov/verify-saml-extensions)
+
 Libraries containing implementations of the SAML extensions defined in the [IDA Saml Profile]("https://www.gov.uk/government/publications/identity-assurance-hub-servi\
 ce-saml-20-profile"). Additionally it provides:
 
